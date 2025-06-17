@@ -1,19 +1,4 @@
-# Interface Web
-streamlit==1.28.1
-
-# IA e Agentes (versões leves)
-langchain==0.0.340
-openai==1.3.7
-python-dotenv==1.0.0
-
-# Processamento de Dados
-pandas==2.1.3
-numpy==1.24.3
-plotly==5.17.0
-
-# Web Tools (essenciais)
-requests==2.31.0
-beautifulsoup4==4.12.2
-
-# Utilitários
-pydantic==2.5.0
+streamlit
+pandas
+numpy
+plotly
